@@ -248,7 +248,7 @@ a {
 /*----------------------footer-----------------------*/
 #footer {
 color: #ccc;
-position: absolute;
+position: fixed;
 bottom: 10px;
 left: 20px;
 font-size: 0.9em;
