@@ -20,7 +20,7 @@ var myPlaylist = [
     },
      {
         mp3:'http://l.a.ppsrc.com/2014/0325/22/PR4_-bgyi0XHrOczY7uuTgghOK_3pm',
-        title:'DECORATOR (TeddyLoid remix)',
+        title:'DECORATOR (remix)',
         artist:'livetune feat. Hatsune Miku',
         rating:3,
         buy:'http://papa.me/post/FG5ib0xf',
