@@ -1,0 +1,52 @@
+
+*************************
+*************************
+
+IMPORTANT: Due to limited resources, I am unable to offer support for the free items on codebasehero.com.
+
+However, all premium files purchased from http://codecanyon.net/user/23andwalnut/portfolio are eligible for support.
+
+Thanks,
+Saleem
+
+*************************
+*************************
+
+
+1. Include jQuery in your page.
+
+3. Include jPlayer in your page
+
+2. Include the plugin javascript and css file.
+
+3. Build your playlist. The playlist uses the same format s jPlayer (an array of objects. However, this plugin requires
+   you to add some additional parameters. A sample playlist item:
+
+   {
+		mp3:'mix/1.mp3',
+		oga:'mix/1.ogg',
+        rating:4.5,
+        title:'Some song title',
+        buy:'http://www.codebasehero.com',
+        price:'0.99',
+        duration:'4:28',
+        artist:'Artist Name',
+        cover:'images/cover.jpg'
+	}
+
+4. Initialize the plugin:
+   $('body').ttwMusicPlayer(myPlaylist, {options});
+
+   You can specify the following options in the options object:
+
+   {
+        currencySymbol:'$',
+        buyText:'BUY',
+        tracksToShow:5,
+        autoPlay:false,
+        ratingCallback:function(index, playlistItem, rating){
+                //some logic to process the rating, perhaps through an ajax call
+        },
+        jPlayer:{} //override default jPlayer options here. This accepts the same structure as the standalone jPlayer
+   };
+
