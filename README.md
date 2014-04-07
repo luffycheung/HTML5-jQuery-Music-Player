@@ -25,5 +25,6 @@ Music Playlist in the 'myplaylist.js' file.A sample playlist item:
 * add volume control function
 * add loopback function
 * add shuffle function
+
 ##License
 MIT
