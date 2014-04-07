@@ -14,7 +14,7 @@ var myPlaylist = [
         artist:'初音ミク',
         rating:4,
         buy:'http://papa.me/post/K8V5b9Jf',
-        price:'papa',
+        price:'啪啪',
         duration:'04:32',
         cover:'http://m2.img.srcdd.com/farm4/d/2014/0308/15/A66EBFC10DEF7492EBDC83B2F467D06E_LARGE_230_230.jpeg'
     },
@@ -24,7 +24,7 @@ var myPlaylist = [
         artist:'livetune feat. Hatsune Miku',
         rating:3,
         buy:'http://papa.me/post/FG5ib0xf',
-        price:'papa',
+        price:'啪啪',
         duration:'05:34',
         cover:'http://m.i.ppsrc.com/cT1neKoI_DLHFCEJTB-wgQ/w-640_h-640_t-webp'
 
@@ -35,30 +35,40 @@ var myPlaylist = [
         artist:'Tycho',
         rating:3,
         buy:'http://papa.me/post/Ku1c5zE8',
-        price:'papa',
+        price:'啪啪',
         duration:'04:44',
         cover:'http://m.i.ppsrc.com/c5uO1V-H5FHHFCEJTB-wgQ/w-640_h-640_t-webp'
 
     },
      {
-        mp3:'http://l.a.ppsrc.com/2014/0323/22/VtEB5RXlFr3HrOczY7uuTgeK2g_3pm',
-        title:'4',
-        artist:'Aphex Twin',
+        mp3:'http://a.srcdd.com/farm1/152/2705AB41F7A6C553DA24FA52B023F798.mp3',
+        title:'DOA',
+        artist:'Aimee Blackschleger',
         rating:3,
-        buy:'http://papa.me/album/xN0iLGtxjzap_3QhcYrGnw',
-        price:'papa',
-        duration:'03:38',
-        cover:'http://m.i.ppsrc.com/k0w95tBoS5THFCEJTB-wgQ/w-640_h-640_t-webp'
+        buy:'http://ostfm.diandian.com/post/2013-07-16/40050308697',
+        price:'点点',
+        duration:'03:26',
+        cover:'http://m2.img.srcdd.com/farm4/d/2013/0716/17/4286D270D60889B99FAC9AECF353C0BC_B500_900_500_500.JPEG'
 
     },
-    
+      {
+        mp3:'http://a.srcdd.com/farm1/75/F962BC0B08E71CC477F66281A749584B.mp3',
+        title:'最、最、最強!!!',
+        artist:'One Piece Soundtrack',
+        rating:3,
+        buy:'http://ostfm.diandian.com/?tag=One%20Piece',
+        price:'点点',
+        duration:'01:14',
+        cover:'http://m3.img.srcdd.com/farm4/d/2012/0612/21/68CC090A4F862DB9404EFA6D53BC5ABC_S250_250_250.JPEG'
+
+    },
      {
         mp3:'http://a.srcdd.com/farm1/255/F80370804839113466634CC495AED3FF.mp3',
         title:'Out of the Ashes',
         artist:'Selectracks',
         rating:3,
         buy:'http://www.diandian.com/tag/Selectracks',
-        price:'dd',
+        price:'点点',
         duration:'02:21',
         cover:'http://m1.img.srcdd.com/farm3/d/2012/0224/16/E0DB890FC83AFD8D0F65E83A2900A7F3_B500_900_500_312.JPEG'
 
@@ -69,7 +79,7 @@ var myPlaylist = [
         artist:'剑灵 OST',
         rating:3,
         buy:'http://ostfm.diandian.com/post/2013-12-09/40060382872',
-        price:'dd',
+        price:'点点',
         duration:'02:28',
         cover:'http://m1.img.srcdd.com/farm5/d/2013/1209/20/7F8503DC8EFD86D9B204F34E942BEDCB_S250_250_250.jpeg'
 
@@ -80,20 +90,20 @@ var myPlaylist = [
         artist:'Kyla La Grange',
         rating:3,
         buy:'http://d-luffy.diandian.com/post/2014-03-02/40061124187',
-        price:'dd',
+        price:'点点',
         duration:'06:36',
         cover:'http://m3.img.srcdd.com/farm4/d/2014/0302/17/BF10D7CA8E52D2B8A6951D2BF92948AA_B1280_1280_500_500.jpeg'
 
     },
      {
-        mp3:'http://l.a.ppsrc.com/2014/0308/14/kboVV_vih__HrOczY7uuTgY66s_3pm',
-        title:'Power Glove',
-        artist:'Knife Party',
+        mp3:'http://l.a.ppsrc.com/2014/0323/22/VtEB5RXlFr3HrOczY7uuTgeK2g_3pm',
+        title:'4',
+        artist:'Aphex Twin',
         rating:3,
-        buy:'http://papa.me/post/zm7oC3N3',
-        price:'papa',
-        duration:'04:23',
-        cover:'http://m2.img.srcdd.com/farm4/d/2014/0308/15/28E56482BC285CBFDDE8EB0ACAA53D67_LARGE_230_230.jpeg'
+        buy:'http://papa.me/album/xN0iLGtxjzap_3QhcYrGnw',
+        price:'啪啪',
+        duration:'03:38',
+        cover:'http://m.i.ppsrc.com/k0w95tBoS5THFCEJTB-wgQ/w-640_h-640_t-webp'
 
     },
      {
@@ -102,7 +112,7 @@ var myPlaylist = [
         artist:'Purity Ring',
         rating:3,
         buy:'http://d-luffy.diandian.com/post/2012-12-09/Chillwave-Purity_Ring-Belispeak',
-        price:'dd',
+        price:'点点',
         duration:'02:58',
         cover:'http://m3.img.srcdd.com/farm5/d/2012/1209/21/A58C9B543A49C69FD5B5FE05E027E205_B500_900_500_500.JPEG'
 
