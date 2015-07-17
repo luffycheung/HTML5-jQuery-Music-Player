@@ -9,7 +9,7 @@
 var myPlaylist = [
 
     {
-        mp3:'http://l.a.ppsrc.com/2014/0308/15/lkIRSVopyc7HrOczY7uuTgXZgf_3pm',
+        mp3:'http://l.na.ppsrc.com/lkIRSVopyc7HrOczY7uuTg',
         title:'千本桜(Dubstep remix)',
         artist:'初音ミク',
         rating:4,
@@ -19,7 +19,7 @@ var myPlaylist = [
         cover:'http://m2.img.srcdd.com/farm4/d/2014/0308/15/A66EBFC10DEF7492EBDC83B2F467D06E_LARGE_230_230.jpeg'
     },
      {
-        mp3:'http://l.a.ppsrc.com/2014/0325/22/PR4_-bgyi0XHrOczY7uuTgghOK_3pm',
+        mp3:'http://l.na.ppsrc.com/PR4_-bgyi0XHrOczY7uuTg',
         title:'DECORATOR (remix)',
         artist:'livetune feat. Hatsune Miku',
         rating:3,
@@ -30,7 +30,7 @@ var myPlaylist = [
 
     },
     {
-        mp3:'http://l.a.ppsrc.com/2014/0323/23/SalYrPaDABnHrOczY7uuTg6aOc_3pm',
+        mp3:'http://l.na.ppsrc.com/SalYrPaDABnHrOczY7uuTg',
         title:'Awake',
         artist:'Tycho',
         rating:3,
@@ -96,7 +96,7 @@ var myPlaylist = [
 
     },
      {
-        mp3:'http://l.a.ppsrc.com/2014/0323/22/VtEB5RXlFr3HrOczY7uuTgeK2g_3pm',
+        mp3:'http://l.na.ppsrc.com/VtEB5RXlFr3HrOczY7uuTg',
         title:'4',
         artist:'Aphex Twin',
         rating:3,
